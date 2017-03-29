@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7FDA29BB1E8BFE46008A2F71"
+               BlueprintIdentifier = "7FDA297C1E8BF7E8008A2F71"
                BuildableName = "inSide.app"
                BlueprintName = "inSide"
                ReferencedContainer = "container:inSide.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7FDA29D41E8BFE46008A2F71"
+               BlueprintIdentifier = "7FDA29951E8BF7E8008A2F71"
                BuildableName = "inSideTests.xctest"
                BlueprintName = "inSideTests"
                ReferencedContainer = "container:inSide.xcodeproj">
@@ -42,7 +42,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7FDA29DF1E8BFE46008A2F71"
+               BlueprintIdentifier = "7FDA29A01E8BF7E8008A2F71"
                BuildableName = "inSideUITests.xctest"
                BlueprintName = "inSideUITests"
                ReferencedContainer = "container:inSide.xcodeproj">
@@ -52,7 +52,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7FDA29BB1E8BFE46008A2F71"
+            BlueprintIdentifier = "7FDA297C1E8BF7E8008A2F71"
             BuildableName = "inSide.app"
             BlueprintName = "inSide"
             ReferencedContainer = "container:inSide.xcodeproj">
@@ -75,7 +75,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7FDA29BB1E8BFE46008A2F71"
+            BlueprintIdentifier = "7FDA297C1E8BF7E8008A2F71"
             BuildableName = "inSide.app"
             BlueprintName = "inSide"
             ReferencedContainer = "container:inSide.xcodeproj">
@@ -94,7 +94,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7FDA29BB1E8BFE46008A2F71"
+            BlueprintIdentifier = "7FDA297C1E8BF7E8008A2F71"
             BuildableName = "inSide.app"
             BlueprintName = "inSide"
             ReferencedContainer = "container:inSide.xcodeproj">
